@@ -1,145 +1,41 @@
 # 👨‍💻 Guilherme Flores
 
-**`Desenvolvedor Java em Evolução`**
-
-Me chamo Guilherme Flores, sou um entusiasta da tecnologia e estou trilhando meu caminho no desenvolvimento de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e focado em dominar Java e ecossistemas relacionados. Este perfil serve como um registro da minha jornada de aprendizado e evolução como desenvolvedor.
-
-<p align="left">
-    <a href="https://github.com/GuilhermeFlores?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GuilhermeFlores?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/GuilhermeFlores?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GuilhermeFlores?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="IntelliJ IDEA" 
-    title="IntelliJ IDEA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📈 Minha Evolução
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GuilhermeFlores&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Linguagens Mais Usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFlores&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
-<br clear="both"/>
-
-### 🚀 Próximos Passos
-
-Estou focado em:
-- Aprofundar meus conhecimentos em Java e Spring Boot
-- Explorar arquiteturas de software e padrões de projeto
-- Desenvolver projetos práticos para consolidar meu aprendizado
-- Contribuir para projetos open source
+## Sobre mim
+Salve! Meu nome é **Guilherme Flores**, natural do **Rio Grande do Sul** e atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Unisinos**.  
+Meu foco é me tornar um desenvolvedor **backend** especializado em **Java** e seu ecossistema.  
+Este GitHub é o meu espaço para registrar minha evolução — desde exercícios e desafios até projetos mais completos.
 
 ---
 
-📫 **Como me encontrar:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermefsdev@gmail.com)
+## 🚀 Tecnologias e Ferramentas
+- **Linguagem principal:** Java  
+- **Frameworks e bibliotecas:** Spring Framework (Spring Boot, Spring Data)  
+- **Banco de dados:** MySQL, PostgreSQL  
+- **Ferramentas de desenvolvimento:** Git & GitHub, IntelliJ IDEA, Eclipse  
+- **Outros interesses:** APIs REST, testes automatizados, arquitetura de software
+
+---
+
+## 🎯 Objetivos
+- Consolidar uma base sólida em desenvolvimento backend com Java  
+- Criar e compartilhar projetos práticos que usem Spring Boot e bancos de dados relacionais  
+- Aprender boas práticas e padrões de projeto para sistemas escaláveis  
+- Evoluir para o desenvolvimento de APIs robustas e seguras
+
+---
+
+## 📫 Onde me encontrar
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.flores@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-flores)
+
+---
+
+> _"Cada commit é um passo a mais na jornada."_ 🚀
