@@ -1,68 +1,45 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 👨‍💻 Guilherme Flores
 
-###
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
-<div align="center">
-  <a href="mailto:guilherme.flores@email.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/guilherme-flores" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-</div>
+---
 
-###
+## Sobre mim
+Salve! Meu nome é **Guilherme Flores**, natural do **Rio Grande do Sul** e atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Unisinos**.  
+Meu foco é me tornar um desenvolvedor **backend** especializado em **Java** e seu ecossistema.  
+Este GitHub é o meu espaço para registrar minha evolução — desde exercícios e desafios até projetos mais completos.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeLiev" alt="visitor badge" />
-</div>
+---
 
-###
+## 🚀 Tecnologias e Ferramentas
+- **Linguagem principal:** Java  
+- **Frameworks e bibliotecas:** Spring Framework (Spring Boot, Spring Data)  
+- **Banco de dados:** MySQL, PostgreSQL  
+- **Ferramentas de desenvolvimento:** Git & GitHub, IntelliJ IDEA, Eclipse  
+- **Outros interesses:** APIs REST, testes automatizados, arquitetura de software
 
-<h1 align="center">👋 Olá! Eu sou o Guilherme</h1>
+---
 
-###
-
-<h3 align="left">👩‍💻 Sobre mim</h3>
-
-<p align="left">
-Sou natural do <b>Rio Grande do Sul</b> e atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unisinos</b>.  
-Meu foco é desenvolvimento <b>backend</b> com <b>Java</b> e seu ecossistema.  
-Este GitHub é o meu espaço para registrar minha evolução — desde exercícios e desafios até projetos completos com <b>Spring Boot</b> e banco de dados.
-</p>
-
-###
-
-<h3 align="left">🛠 Tecnologias e Ferramentas</h3>
-
-<div align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="32" style="vertical-align:middle; margin-right:8px;" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="32" style="vertical-align:middle; margin-right:8px;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="32" style="vertical-align:middle; margin-right:8px;" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="32" style="vertical-align:middle; margin-right:8px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="32" style="vertical-align:middle; margin-right:8px;" />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🎯 Objetivos</h3>
-
+## 🎯 Objetivos
 - Consolidar uma base sólida em desenvolvimento backend com Java  
-- Criar e compartilhar projetos práticos usando Spring Boot e bancos de dados relacionais  
-- Aprender boas práticas e padrões de projeto  
+- Criar e compartilhar projetos práticos que usem Spring Boot e bancos de dados relacionais  
+- Aprender boas práticas e padrões de projeto para sistemas escaláveis  
 - Evoluir para o desenvolvimento de APIs robustas e seguras
+
+---
+
+## 📫 Onde me encontrar
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.flores@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-flores)
+
+---
+
+> _"Cada commit é um passo a mais na jornada."_ 🚀
+
 
 ###
 
