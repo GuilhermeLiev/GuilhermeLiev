@@ -9,7 +9,7 @@
 <p align="left">
 Sou natural do <b>Rio Grande do Sul</b> e atualmente curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unisinos</b>.  
 Meu foco é desenvolvimento <b>backend</b> com <b>Java</b> e seu ecossistema.  
-Este GitHub é o meu espaço para registrar minha evolução — desde exercícios e desafios até projetos completos com <b>Spring Boot</b> e banco de dados.
+Este GitHub é o meu espaço para registrar minha evolução, desde exercícios e desafios até projetos completos com <b>Spring Boot</b> e banco de dados.
 </p>
 
 ###
