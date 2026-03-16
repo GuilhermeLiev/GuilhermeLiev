@@ -38,7 +38,7 @@ Este GitHub é o meu espaço para registrar minha evolução, desde exercícios 
 
 <h3 align="left">🎯 Objetivos</h3>
 
-- Consolidar uma base sólida em desenvolvimento backend com Java  
+- Consolidar uma base em desenvolvimento backend com Java  
 - Criar e compartilhar projetos práticos usando Spring Boot e bancos de dados relacionais  
 - Aprender boas práticas e padrões de projeto  
 - Evoluir para o desenvolvimento de APIs robustas e seguras
